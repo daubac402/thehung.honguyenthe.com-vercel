@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.facebook.com/nguyenthe.hung.5602",
+      "permanent": true
+    }
+  ]
+}
